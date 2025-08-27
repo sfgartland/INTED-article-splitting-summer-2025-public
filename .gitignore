@@ -1,2 +1,3 @@
 .env.secret
-**/*.pkl
+# **/*.pkl
+processed_embeddings_20250715_133622.pkl
