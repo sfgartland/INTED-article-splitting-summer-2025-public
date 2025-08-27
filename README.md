@@ -37,21 +37,21 @@ This notebook contains the legacy code for classifying article sections using GP
 
 This notebook implements a probabilistic classification approach based on a set of heuristics. It combines evidence from a section`s title, content length, position within the article, and text embeddings to assign a classification, providing a baseline for comparison with the more advanced LLM-based methods.
 
-#### [`bert_section_classifier.ipynb`](./section_type_classification/bert_section_classifier.ipynb)
+#### [`bert_section_classifier.ipynb`](./bert_section_classifier.ipynb)
 
 This notebook fine-tunes a SciBERT LLM for section classification under a Hugging Face framework, and evaluates resulting classification performance.
 
-#### [`nonMLP_classifier.ipynb`](./section_type_classification/nonMLP_classifier.ipynb)
+#### [`nonMLP_classifier.ipynb`](./nonMLP_classifier.ipynb)
 
 This notebook implements a novel light-weight classification approach, leveraging the geoemetric properties of textual embeddings. See the full article for further details.
 
-#### [`MLP_classifier.ipynb`](./section_type_classification/MLP_classifier.ipynb)
+#### [`MLP_classifier.ipynb`](./MLP_classifier.ipynb)
 
 This notebook further augments the approach outlined above with Multi-Layer Perceptrons, significantly enhancing performance at little additional computational cost. 
 
 ### Theory and method identification and classification
 
-#### [`2D_projection_space`](./section_type_classification/2D_projection_space.ipynb)
+#### [`2D_projection_space`](./2D_projection_space.ipynb)
 
 This notebook further explores the geometric properties of textual embeddings, analysing a variety of different properties in a variety of different ways.
 
