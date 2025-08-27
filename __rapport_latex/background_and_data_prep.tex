@@ -1,0 +1,83 @@
+% !TEX root = rapport_root.tex
+\section{Background}
+
+\subsection{Previous work}
+
+This project is inspired by the ongoing work of Helene Lane, where she employs a
+centroids based natural language processing (NLP) method developed by
+\textcite{Odden2024Using}. Centroids for text summarization were first
+introduced by \autocite{Radev2004Centroid} and consist of averaging the
+positions of a set of samples in the embeddings space. These averages -- the
+centroids -- should then represent some semantic meaning shared by its
+constitutive samples.
+
+Lane has embedded a dataset of 1222 whole articles from PRPER. From these,
+centroids were computed based on handpicked sets representing common topics in
+PRPER. The topic categories are: ``Mechanics'', ``Electricity and Magnetism'',
+``Sound and Waves'', ``Relativity'', ``Thermal Physics'', ``Optics'', ``Fluid
+Dynamics'', ``Quantum Physics'', ``Astrophysics'', ``Identity'', ``Lab'' and
+``Attitudes''. By calculating the distance from each of the articles to these
+centroids, she can visualize the distribution of topics within physics education
+in an embedding (or ``meaning'') space. She intends to use the distribution to
+investigate the evolution of topics in PRPER over time. In other words, like
+\autocite{Odden2024Using}, she employs text embeddings and centroids to conduct
+a qualitative analysis.
+
+
+\subsection{Project Goals and Structure}
+
+A limitation of Lane's work is its reliance on \emph{article-level embeddings},
+which reduces each complex document to a single point in the embedding space.
+Since scientific articles have a clear sectioned structure (e.g., theory,
+methods, results), a more fine-grained, \emph{section-level analysis} could reveal
+new features.
+
+To address this, our project comprises four primary components that build upon
+one another:
+\begin{itemize}
+    \item \textbf{Data Preparation:} To process the raw XML data by splitting
+    each of the 1222 articles into its constituent sections and converting the
+    text of each section into a high-dimensional vector representation
+    (embedding).
+
+    \item \textbf{Exploratory Analysis:} To investigate the structure of the
+    resulting embedding space using dimensionality reduction and clustering
+    techniques, identifying the primary factors that influence a section's
+    position (e.g., article theme vs. section type).
+
+    \item \textbf{Section Type Classification:} To develop and evaluate multiple
+    models—including heuristics and large language models for classifying each
+    section according to its rhetorical function (e.g., `Introduction`,
+    `Methods`, `Results`).
+
+    \item \textbf{Fine-Grained Trend Analysis:} To leverage the classified
+    sections to identify the specific theoretical frameworks and research
+    methods used within the articles and to analyze their prevalence over the
+    20-year history of the journal.
+\end{itemize}
+
+
+\section{Article Splitting and Embedding}
+
+The initial splitting and embedding were in many ways straightforward. Despite
+being spread over 20 years of publishing, the data had a predictable XML
+structure. The extracted data could then be passed to an embedding function to
+yield a vector representation. The article splitting algorithm resulted in 7313
+sections from the 1222 articles.
+
+We chose to use the closed source ``voyage-large-2" model from Voyage AI for our
+initial embedding, choosing a 1024 dimensional output. At the time of writing,
+Voyage AI's models are considered to provide the best embeddings for general
+purposes. We therefore chose one of their models for our initial embeddings that
+were to be used for general data exploration. A viable open-source alternative
+would be Jina AI's embedding models.
+
+To see the implementation of the data extraction and embedding, see the
+``pre-processing.ipynb'' computational notebook.
+
+
+\subsection{Transformer Fine-tuning}
+In recent years, transformer-based language models have become the industry standard for downstream classification tasks, typically used in combination with a final set of classification layers, fine-tuned on domain-specific datasets. In our analysis we employ BERT \parencite{devlin2019bertpretrainingdeepbidirectional}, a sophisticated LLM utilizing attention mechanisms introduced by \textcite{vaswani2023attentionneed} to capture context-specific representations of textual data. More precisely we use SciBERT, a BERT-based language model trained on a large corpus of scientific publication, offering state-of-art performance on downstream scientific NLP tasks \autocite{Beltagy2019SciBERTAP}. Fine-tuning is done by adding task-specific layers of classification heads, iteratively adjusted via supervised learning. This is implemented using Hugging Face's Transformer library \parencite{wolf-etal-2020-transformers}.
+
+\subsection{Multi-layer Perceptrons}
+Multi-Layer Perceptrons (MLPs) are a class of feed-forward neural networks generally consisting of an input and output layer sandwiching one or several hidden layers \autocite{HORNIK1989359}. Layers consist of a finite number of nodes where each node is fully connected to the previous and subsequent layer, with individual neuron outputs dictated by non-linear activation functions. Despite their simple structure, MLPs are capable of modeling complex non-linear relationships \autocite{HORNIK1989359} and are widely used for classification tasks. In this paper, MLPs are used as components in custom hybrid classification models.

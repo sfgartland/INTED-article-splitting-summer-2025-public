@@ -1,0 +1,254 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+ \geometry{ a4paper, left=25.4mm, right=25.4mm, top=25.4mm, bottom=25.4mm }
+
+\usepackage{fontspec} % required with LuaLaTeX
+\setmainfont{Latin Modern Roman} % default LaTeX-like font
+
+% \usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{amsmath, amssymb}
+\usepackage{braket}
+
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{color}
+% \usepackage{helvet} \renewcommand{\familydefault}{\sfdefault}
+\usepackage{subcaption}
+
+
+\usepackage[norsk,american]{babel}
+
+% Selects spacing
+\usepackage{setspace}
+\onehalfspacing
+\setstretch{1.5} % For Microsoft Word like spacing
+
+
+% \setcounter{secnumdepth}{0} %disables the section numbering
+\setcounter{tocdepth}{3}
+
+\usepackage{tocloft}
+% Solid line leaders instead of dots:
+\renewcommand{\cftsecleader}{\leaders\hrule height0.4pt\hfill}
+\renewcommand{\cftsubsecleader}{\leaders\hrule height0.4pt\hfill}
+
+\usepackage[skip=15pt, indent=0pt]{parskip} % Sets the spacing between paragraphs
+
+
+
+\usepackage{titling}
+
+\newcommand{\maintitle}{From Section Type Classification to\linebreak Fine-Grained Literature Review}
+\newcommand{\shorttitle}{A Computational Workflow for Analyzing Scientific Literature}
+\title{\maintitle\: \shorttitle}
+
+
+\author{Helene L. Bygnes \and Severin Gartland \and Lars Campsteijn-Høiby \and Lisa Sørdal}
+\newcommand{\displayauthors}{Helene L. Bygnes \\ Severin Gartland \\ Lars Campsteijn-Høiby \\ Lisa Sørdal}
+\date{18. august 2025}
+
+% \usepackage{luacode} % Make sure you have this package
+% \begin{luacode*}
+% function format_authors ()
+%   local author_string = token.get_macro("theauthor")
+%   local formatted_string = string.gsub(author_string, "%s*\\and%s*", "\\\\ ")
+%   tex.sprint(formatted_string)
+% end
+% \end{luacode*}
+% \newcommand{\displayauthors}{\directlua{format_authors()}}
+
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{14.5pt} % sufficiently large headheight
+\fancypagestyle{plain}{%  the preset of fancyhdr 
+    \fancyhf{} % clear all header and footer fields
+    \fancyfoot[L]{}
+    \fancyfoot[R]{\thepage}
+    \fancyhead[R]{}
+    \fancyhead[L]{\shorttitle}
+}
+
+\usepackage{hyperref} % Needed for Pandoc sections, also hides the colorboxes on citations
+\hypersetup{ pdftitle={\thetitle}, pdfauthor={\theauthor}, hidelinks, pdfcreator={LaTeX via pandoc} }
+
+\usepackage[noabbrev,nameinlink]{cleveref}
+
+% For table
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\setlength{\marginparwidth}{2cm}
+\usepackage{todonotes}
+% 2. Define a new, sleek style \makeatletter \todostyle{sleek}{% shadow=none,
+%    bordercolor=gray!60, backgroundcolor=blue!10, linecolor=gray!60,
+%    textcolor=black, textsize=\small, textwidth=\marginparwidth-1pt
+%    }
+% \makeatother
+
+% 3. Apply the new style to all notes \todototestyle{sleek}
+
+
+\pagestyle{empty}
+\pagenumbering{gobble}
+
+\usepackage{enumitem}
+\setlist[itemize]{nosep}
+\setlist[enumerate]{nosep}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\usepackage{csquotes}
+\usepackage[backend=biber,  % Use the Biber backend
+    style=apa]{biblatex}
+\addbibresource{rapport_bib.bib}
+% Link your .bib file
+
+\newcommand{\midhrulefill}{\leaders\hbox{\rule[0.5ex]{1em}{0.5pt}}\hfill}
+
+\begin{document}
+\begin{titlepage}
+    \begin{tikzpicture}[remember picture,overlay]
+
+        % Background Image \node[anchor=center, inner sep=0] at (current page.center) {
+        % \includegraphics[width=\paperwidth,height=\paperheight]{new-background-a4.png}
+        % };
+
+        % % Top left logo \node[anchor=north west, xshift=1.5cm, yshift=-1.5cm] at
+        % (current page.north west) { \includegraphics[width=2cm]{uio-logo.png}
+        % };
+
+        % Title and Subtitle
+        \node[anchor=north west, text width=\textwidth, align=left,
+            black] at ([xshift=1.5cm,yshift=-4cm]current page.north west) {
+            {\fontsize{18pt}{18pt}\selectfont 
+{\bfseries From Section Type Classification{\rightarrowfill}\\[0.3cm] to{\rightarrowfill}Fine-Grained Literature Review}
+} \\[0.5cm] \fontsize{16pt}{18pt}\selectfont 
+{\hfill}A Computational Workflow for Analyzing Scientific Literature{\hfill}
+};
+
+
+        % Author Name
+        \node[anchor=north west, text width=12cm, align=left] at
+        ([xshift=1.5cm,yshift=-9cm]current page.north west){
+            {\fontsize{13pt}{15pt}\selectfont \displayauthors} };
+
+
+    \end{tikzpicture}
+
+
+    % Main paragraph at bottom-right position
+    \vfill
+    \begin{flushright}
+        \begin{minipage}{0.85\textwidth}
+            \setstretch{1.2}
+            \setlength\parskip{0pt} \setlength\parskip{15pt} % Your desired space
+            {
+                While text embeddings provide powerful tools for analyzing scientific literature, treating articles as single data points obscures the distinct functions of their sections. This report presents a complete workflow for performing a more fine-grained, section-level analysis on a corpus of 1222 articles from the \emph{PRPER} journal.
+
+                This work first develops and compares multiple methods for \textbf{classifying article sections by type}. We show that while an API-based Large Language Model achieves the highest accuracy ($\sim$90\%), a novel, computationally efficient projection-based classifier also performs strongly ($\sim$80\%), surpassing a fine-tuned SciBERT model. Building on these classifications, we then introduce an iterative LLM-based workflow to \textbf{automatically discover and track fine-grained trends in theory and methodology} over two decades, enabling a new form of automated literature review.
+            }
+        \end{minipage}
+    \end{flushright}
+
+    \vspace{1.5cm}
+
+    {\fontsize{10pt}{12pt}\selectfont
+        \noindent
+        \begin{minipage}[t]{0.5\textwidth}
+            \centering
+            INTED -- UiO \end{minipage}\hfill
+        \begin{minipage}[t]{0.5\textwidth}
+            \centering
+            \thedate
+        \end{minipage}
+    }
+\end{titlepage}
+
+% \clearpage
+
+\tableofcontents
+\thispagestyle{empty}
+
+\clearpage
+
+
+\pagestyle{plain}
+% \setcounter{page}{1}
+\pagenumbering{arabic}
+
+% % \section{Abstract}
+
+\section{Introduction}
+
+The ever-expanding volume of scientific literature presents a significant
+challenge for researchers seeking to understand the trajectory of their field.
+While traditional review articles provide invaluable summaries, computational
+methods using text embeddings have emerged as a powerful tool for conducting
+large-scale, data-driven analyses of entire research corpora. This approach has
+been successfully used to map broad thematic trends by representing each
+scientific article as a single vector in a high-dimensional "meaning space"
+\autocite{Odden2024Using}.
+
+However, analyzing articles as monolithic units has a key limitation: it
+conflates the distinct functions of their constituent parts. An
+article is not a single block of text, but a structured argument composed of an
+\emph{Introduction}, \emph{Methods}, \emph{Results}, and \emph{Discussion}.
+Reducing an entire article to a single data point risks obscuring these
+distinct components, losing valuable information about a field's theoretical
+foundations or the evolution of its research methods. A section-level analysis,
+therefore, promises a more nuanced and powerful understanding of how a discipline
+develops.
+
+This report details a project that develops and evaluates a complete workflow for
+such a section-level analysis, using a corpus of 1222 articles from the
+\emph{Physical Review Physics Education Research} (PRPER) journal. Our primary
+contributions are threefold. First, we develop and compare a suite of models for
+classifying article sections by their section type. We demonstrate that while a
+Large Language Model (LLM) using an external API achieves the highest accuracy
+($\sim$90\%), our novel, projection-based MLP classifier provides a highly
+competitive and computationally efficient local alternative ($\sim$80\%),
+significantly outperforming a standard fine-tuned SciBERT model ($\sim$77\%).
+Second, using these classifications, we introduce an iterative LLM-based method
+to automatically discover and track the prevalence of specific theoretical
+frameworks and research methods. Finally, we developed a use of projection-based
+visualizations as a tool for exploring the semantic space of academic theories.
+
+The report is structured as follows. We begin by preparing the data and
+performing an initial exploration of the section embedding space. We then present
+our detailed comparative analysis of the different section-type classifiers. The
+report then demonstrates the utility of these classifications in two applications:
+the fine-grained trend analysis using an iterative LLM and the exploratory
+analysis using vector projections, before concluding with the implications of
+this work.
+
+
+\include{background_and_data_prep}
+
+% \include{theory_l} % Moved into the background file
+
+\include{initial_exploration}
+
+\include{section_classification}
+
+\include{LLM_classifier}
+
+\include{further_analysis_and_discussion}
+
+\section{Conclusion}
+
+This report set out to address a key limitation in the computational analysis of scientific literature: the loss of nuance when treating entire articles as single data points. We developed and evaluated a complete workflow for performing a fine-grained, section-level analysis of the PRPER corpus, demonstrating the feasibility and value of this approach.
+
+Our initial exploration confirmed that while a section-level approach is necessary, it is also challenging, as the thematic signal of an article often dominates the more subtle rhetorical signal of its sections. To overcome this, we compared several supervised classification models. We found that a Large Language Model using an external API achieved the highest accuracy at $\sim$90\%, while a novel, projection-based MLP classifier offered a strong and computationally efficient local alternative ($\sim$80\%), outperforming a fine-tuned SciBERT model ($\sim$77\%).
+
+Using the most accurate classifications, we pioneered a novel, iterative LLM-based method capable of discovering and categorizing specific theoretical frameworks and research methods directly from the text. This technique successfully mapped the conceptual evolution of the PRPER journal over two decades, showcasing its potential as a powerful tool for automated, data-driven literature reviews.
+
+This work is not without limitations. The classification task is complicated by the inherent ambiguity of section boundaries, and the iterative analysis method requires significant computational resources and human-in-the-loop validation. Future work should focus on applying this workflow to other research corpora and refining the iterative classifier with more powerful models to better distinguish between the "use" and "discussion" of a concept. Further investigation into the semantic axes discovered through projection-based analysis could also yield more rigorous tools for interpreting the conceptual landscape of a scientific field.
+
+\printbibliography[title={Bibliography}]
+
+\end{document}
+
+

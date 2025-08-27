@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Tutorial Implementation",
+    "description": "Description of implementing tutorial-based instruction in physics courses, including course structure, staffing, and instructional methods."
+  },
+  {
+    "title": "Demonstration-Based Tasks",
+    "description": "Design and use of physical demonstration tasks to probe student conceptual models during interviews."
+  },
+  {
+    "title": "Homework and Quiz Study Methods",
+    "description": "Design and use of homework and quiz problems in various representational formats to study student understanding."
+  },
+  {
+    "title": "Course Environment Analysis",
+    "description": "Methods for analyzing lectures, exams, and assignments to characterize instructional environments."
+  },
+  {
+    "title": "Multiple-Choice Instrument Analysis",
+    "description": "Development and use of model-based analysis of student responses to multiple-choice conceptual assessments."
+  },
+  {
+    "title": "Animation-Based Assessment",
+    "description": "Use of computer animation versions of conceptual tests to explore student understanding and assessment validity."
+  },
+  {
+    "title": "Test Statistical Evaluation",
+    "description": "Use of item difficulty, discrimination indices, reliability coefficients, and other statistics to evaluate assessment instruments."
+  },
+  {
+    "title": "Student Learning and Reasoning Studies",
+    "description": "Studies examining student reasoning across and within domains using different representational and instructional treatments."
+  },
+  {
+    "title": "Analogical Scaffolding in Instruction",
+    "description": "Instructional design using analogies and multiple representations to scaffold student learning of complex physics concepts."
+  },
+  {
+    "title": "Video Data Collection and Analysis",
+    "description": "Methodologies for collecting and analyzing video data of student interactions and TA-student engagement in tutorials."
+  },
+  {
+    "title": "Instructor Interview Studies",
+    "description": "Semi-structured interviews with physics faculty to explore instructional conceptions and practices."
+  },
+  {
+    "title": "Student Reasoning and Coding in Physics Education",
+    "description": "Methods for coding and analyzing student reasoning patterns and responses to conceptual physics questions."
+  },
+  {
+    "title": "Laboratory Instruction and Student Activities Analysis",
+    "description": "Comparative studies of design-based and traditional labs, including coding of student activities and interactions."
+  },
+  {
+    "title": "Cluster Analysis and Student Conceptual Patterns",
+    "description": "Use of cluster analysis to identify patterns in student conceptual responses in physics."
+  },
+  {
+    "title": "Course and Curriculum Design",
+    "description": "Methods involving the planning, structuring, and implementation of course content and activities, including curriculum transformation and instructional design."
+  },
+  {
+    "title": "Classroom Implementation and Instructional Strategies",
+    "description": "Methods detailing the actual execution of instructional activities in classroom settings, including student group work, feedback, and instructor roles."
+  },
+  {
+    "title": "Experimental Apparatus and Materials",
+    "description": "Description and use of physical devices or teaching materials developed or adapted for research or instructional purposes."
+  },
+  {
+    "title": "Assessment Development and Validation",
+    "description": "Methods related to the creation, validation, and use of assessment instruments to measure student learning and understanding."
+  },
+  {
+    "title": "Pedagogical Interventions and Tools",
+    "description": "Design and evaluation of specific teaching methods or tools aimed at improving student learning and epistemic development."
+  },
+  {
+    "title": "Usability and Learning Technology Studies",
+    "description": "Research methods focusing on the evaluation of educational technologies and their impact on student learning and engagement."
+  },
+  {
+    "title": "Survey Methodology in Physics Education",
+    "description": "A consolidated category covering the development, administration, scoring, analysis, validation, and reliability assessment of surveys (including instruments to assess student beliefs and attitudes)."
+  },
+  {
+    "title": "Experimental Design in Physics Education",
+    "description": "A comprehensive category that addresses the design of controlled experiments, including participant selection, intervention procedures, pre-/post-testing, and comparative studies across domains."
+  },
+  {
+    "title": "Qualitative Interview Methodology in Physics Education",
+    "description": "This category encompasses qualitative approaches to interviewing, including think‐aloud protocols, demonstration-based and stimulated recall interviews, as well as structured protocols used with both experts and students."
+  },
+  {
+    "title": "Instructional Study Methods in Physics Education",
+    "description": "A unified category that includes studies evaluating instructional interventions, course formats, and materials, covering both general instructional studies and content-specific interventions (e.g., Newton's third law materials)."
+  },
+  {
+    "title": "Data Collection Methods in Physics Education",
+    "description": "This merged category covers procedures and tools for gathering research data, including combined descriptions of overall study design, specific data collection instruments, and protocols."
+  }
+]

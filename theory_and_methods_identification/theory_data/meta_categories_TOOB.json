@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Cognitive",
+    "description": "Theories focusing on individual mental processes, knowledge structures, and reasoning. Examples include Symbolic forms, epistemic games, Dual process theory, and misconceptions research."
+  },
+  {
+    "title": "Sociocultural",
+    "description": "Theories emphasizing learning as social participation and enculturation into a community's practices. Examples include Cultural-Historical Activity Theory (CHAT), Participationist learning, and Communities of Practice."
+  },
+  {
+    "title": "Social Justice",
+    "description": "Theories that examine and critique systems of power, privilege, and oppression within educational contexts. Examples include Critical Race Theory and Culturally Relevant Pedagogy."
+  },
+  {
+    "title": "Organizational",
+    "description": "Theories that analyze the structures, systems, and processes of educational institutions and how they impact student and faculty experiences. Examples include the Dissemination of Curriculum and Tinto's model of student integration."
+  },
+  {
+    "title": "Motivation and Identity",
+    "description": "Theories centered on students' beliefs, values, goals, and sense of self in relation to physics. An example is Expectancy-Value Theory."
+  }
+]

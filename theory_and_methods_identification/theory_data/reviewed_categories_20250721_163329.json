@@ -1,0 +1,542 @@
+[
+  {
+    "title": "ISLE (Investigative Science Learning Environment) Approach",
+    "description": "An inquiry-based learning framework emphasizing scientific experimentation, model development, and scientific habits of mind."
+  },
+  {
+    "title": "Communities of Practice (COP)",
+    "description": "A sociocultural framework focusing on identity development, participation, and learning through engagement in community practices."
+  },
+  {
+    "title": "Physics Identity Constructs",
+    "description": "Frameworks analyzing recognition, interest, competence, and performance as components shaping individuals' identity in physics."
+  },
+  {
+    "title": "Participationist Learning Framework",
+    "description": "A sociocultural perspective viewing learning as transformation of participation within a community, emphasizing collaborative engagement and identity."
+  },
+  {
+    "title": "Math-Physics Algorithmic-Conceptual Framework",
+    "description": "A cognitive framework categorizing student problem solving along algorithmic versus conceptual and math versus physics dimensions."
+  },
+  {
+    "title": "Framing and Epistemic Agency",
+    "description": "Frameworks focusing on how individuals and groups interpret situations (framing) and exercise control in knowledge building (epistemic agency)."
+  },
+  {
+    "title": "Sociocultural Identity and Gender Performativity",
+    "description": "Theoretical perspectives on identity as socially negotiated, fluid, and performed, with emphasis on gender and masculinities in physics contexts."
+  },
+  {
+    "title": "Dual-Process Theories of Reasoning",
+    "description": "Cognitive frameworks distinguishing between fast, intuitive reasoning and slow, analytic reasoning processes in problem solving."
+  },
+  {
+    "title": "Embodied Cognition Framework",
+    "description": "A theoretical perspective emphasizing that abstract concepts are understood through basic sensory-motor experiences and embodied metaphors, which shape how learners conceptualize scientific ideas such as energy."
+  },
+  {
+    "title": "Teacher Centered Systemic Reform (TCSR) Framework",
+    "description": "A theoretical perspective focusing on educational change efforts within complex systems, positioning the instructor—with their history, beliefs, and practices—as the central agent influencing and influenced by multiple contextual levels including classroom, department, university, and broader cultural contexts."
+  },
+  {
+    "title": "Cognitive Apprenticeship",
+    "description": "A framework emphasizing learning through guided experience in authentic tasks, involving modeling, coaching, scaffolding, articulation, reflection, and exploration to develop expert-like skills."
+  },
+  {
+    "title": "Representational Change Theory",
+    "description": "A cognitive theory describing problem solving as involving an impasse followed by insight, where learners must change or restructure their mental representations to overcome difficulties and solve problems."
+  },
+  {
+    "title": "Johnson-Laird Mental Representation Framework",
+    "description": "A cognitive framework categorizing mental representations into propositional representations (symbolic and abstract), mental models (analogical and personal constructs), and mental images (visual-spatial internal views), emphasizing their dynamic interrelations in reasoning and comprehension."
+  },
+  {
+    "title": "Epistemic Games",
+    "description": "A framework describing sets of rules and strategies that guide inquiry and scientific reasoning, used to characterize expert and student behaviors as normative or descriptive practices within a discipline."
+  },
+  {
+    "title": "Distributed Cognition Framework",
+    "description": "A theoretical perspective emphasizing the role of external entities such as tools, representations, and social interactions in cognitive processes, highlighting how cognition is distributed across people, artifacts, and environments."
+  },
+  {
+    "title": "Learning Progressions Framework",
+    "description": "A framework describing the successive, empirically validated stages of increasing sophistication in students' understanding of a scientific concept, often anchored by lower (naïve ideas) and upper (scientific understanding) levels, used to guide curriculum development and assessment."
+  },
+  {
+    "title": "Activity Theory (AT)",
+    "description": "A sociocultural theoretical framework originating from Vygotsky's work, focusing on human cognition as mediated by tools and artifacts within cultural and social contexts. It analyzes learning and behavior as part of an interconnected activity system including subjects, objects, mediating artifacts, rules, community, and division of labor."
+  },
+  {
+    "title": "Social Cognitive Career Theory (SCCT)",
+    "description": "A theoretical framework that explains career development and choice as influenced by self-efficacy beliefs, outcome expectations, personal characteristics, background contexts, and learning experiences, emphasizing a lifelong process of career-related decision making."
+  },
+  {
+    "title": "Critical Race Theory (CRT)",
+    "description": "A theoretical framework originating in legal studies that examines the permanence of racism as a structural feature of society, uses counterstorytelling to challenge dominant narratives, and highlights interest convergence where racial advances occur only when they align with the interests of dominant groups. CRT has been adapted to education and science education to analyze race relations and systemic inequities."
+  },
+  {
+    "title": "Situated Learning Theory",
+    "description": "A sociocultural learning theory positing that meaningful learning occurs through engagement in authentic activities within authentic contexts and cultures, emphasizing social interaction and knowledge co-construction rather than knowledge transmission."
+  },
+  {
+    "title": "Epistemological Beliefs Constructs",
+    "description": "Frameworks focusing on learners' beliefs, views, and understandings about the nature of knowledge, knowing, and learning, often domain-specific and developmental, used to analyze how epistemological views influence learning and change over time."
+  },
+  {
+    "title": "Preparation for Future Learning (PFL)",
+    "description": "A framework by Bransford and Schwartz emphasizing instructional design that balances innovation and efficiency to promote transfer of learning across contexts, focusing on the 'optimal adaptability corridor' where instruction builds on prior knowledge and supports cognitive engagement."
+  },
+  {
+    "title": "Socially Mediated Metacognition (SMM) Framework",
+    "description": "A framework describing how metacognition is socially mediated through peer interaction during collaborative problem solving, characterized by metacognitive and transactive conversational moves and clusters."
+  },
+  {
+    "title": "Conjecture Mapping Framework",
+    "description": "An analytical framework developed by Sandoval that delineates educational design into embodiment, mediating processes, and outcomes, and emphasizes articulating and testing design and theoretical conjectures about how learning is supported in a given context."
+  },
+  {
+    "title": "Model of Domain Learning",
+    "description": "A theoretical framework explaining the development from novice to expert in academic domains by considering the interplay of prior knowledge, interest, and strategic processing, and how these factors influence motivation and learning strategies."
+  },
+  {
+    "title": "Formative Assessment Framework (Assessment for Learning - AFL)",
+    "description": "A framework emphasizing assessment as a tool to provide feedback that informs and improves both teaching and learning processes."
+  },
+  {
+    "title": "Scaffolding Framework",
+    "description": "A framework describing temporary instructional supports that help learners accomplish tasks beyond their independent capabilities, with gradual withdrawal to foster independence."
+  },
+  {
+    "title": "Content Knowledge for Teaching (CKT) Framework",
+    "description": "A theoretical framework focusing on the specialized knowledge teachers need to effectively teach specific content, integrating both disciplinary knowledge and pedagogical knowledge tailored to student learning challenges within a particular domain."
+  },
+  {
+    "title": "Model of Educational Reconstruction (MER)",
+    "description": "A methodological framework for science education research that integrates empirical research on teaching and learning to develop content structures for instruction and learning resources, combining analysis of science content, student and teacher perspectives, and design and evaluation of learning environments."
+  },
+  {
+    "title": "Curriculum Documents Framework",
+    "description": "A framework focusing on the analysis and classification of curriculum documents at multiple systemic levels (macro, meso, micro, nano), emphasizing their roles, functions, and legal status in educational systems."
+  },
+  {
+    "title": "Nature of Science (NOS) Framework",
+    "description": "A framework addressing the teaching and learning of the nature of science, including scientific methods, the role of models, tentativeness, creativity, controversies, and history, to foster scientific literacy and critical thinking."
+  },
+  {
+    "title": "Disciplinary Discernment Framework",
+    "description": "A framework describing the hierarchical development of learners' ability to notice, reflect on, and interpret disciplinary-specific semiotic resources, progressing from nondisciplinary to expert levels of discernment within a scientific discipline."
+  },
+  {
+    "title": "Multidimensionality Hierarchy (MDH)",
+    "description": "A hierarchical framework categorizing learners' spatial thinking and ability to extrapolate three-dimensional understanding from one- and two-dimensional representations, particularly in astronomy education."
+  },
+  {
+    "title": "Ecological Systems Theory (adapted)",
+    "description": "Originally developed by Bronfenbrenner to characterize layers of environmental systems influencing human development, adapted here to describe the multiple contextual layers (micro-, meso-, exo-, macrosystems) impacting students' sense of relevance in physics education, emphasizing reciprocal interactions between students and their environments."
+  },
+  {
+    "title": "Actor-Network Theory (ANT)",
+    "description": "A sociotechnical framework that analyzes the interconnectedness of human and non-human actors in networks, emphasizing how knowledge and practices emerge from these interactions."
+  },
+  {
+    "title": "Quantitative Critical Race Theory (QuantCrit)",
+    "description": "An extension of CRT that applies critical race perspectives to quantitative research methods, emphasizing the social construction of data, the centrality of oppression, and the non-neutrality of data in revealing structural inequities."
+  },
+  {
+    "title": "Social Semiotics and Multimodality",
+    "description": "A framework focusing on how meaning is made through multiple modes of communication (e.g., text, images, code) and how semiotic resources and systems are transformed and transduced in learning contexts."
+  },
+  {
+    "title": "Variation Theory of Learning",
+    "description": "A learning theory emphasizing that learning occurs through discerning critical aspects of phenomena by experiencing variation against a stable background."
+  },
+  {
+    "title": "Kolb’s Experiential Learning Cycle",
+    "description": "A cyclical model of learning involving concrete experience, reflection, abstraction, and hypothesis testing, supporting iterative and experiential learning processes."
+  },
+  {
+    "title": "Moderate Constructivism",
+    "description": "A learning theory perspective viewing learners as actively constructing knowledge based on prior knowledge and experiences, emphasizing cognitive structure building and adaptation through interaction with the environment."
+  },
+  {
+    "title": "Deliberate Practice Framework",
+    "description": "A framework emphasizing that skill acquisition requires repeated, targeted practice with feedback, structured tasks, and motivation, originally developed in expertise research and applied here to teaching critical thinking skills."
+  },
+  {
+    "title": "ACER Framework",
+    "description": "An analytic framework dividing problem-solving into four stages—Activation of tools, Construction of equations, Execution of calculations, and Reflection on solutions—used to structure investigations of students' problem-solving processes, particularly in upper-division physics contexts."
+  },
+  {
+    "title": "Writing-to-Learn (WTL) Framework",
+    "description": "A framework emphasizing that writing activities within disciplinary contexts foster intellectual development, critical thinking, creativity, and knowledge transformation."
+  },
+  {
+    "title": "Mathematical Modeling Framework",
+    "description": "A theoretical framework that uses mathematical equations and constructs, such as master equations and transition matrices, to model and analyze learning processes quantitatively, focusing on variables like student responses before and after peer instruction and their transitions."
+  },
+  {
+    "title": "Proceptual Understanding Framework",
+    "description": "A framework from mathematics education that combines procedural mastery and conceptual understanding, emphasizing fluid movement between procedures and concepts, applied here to physics quantities and reasoning."
+  },
+  {
+    "title": "Intelligence Mindset Theory",
+    "description": "A psychological and educational framework developed by Carol Dweck and colleagues that conceptualizes individuals' beliefs about the malleability of intelligence, distinguishing between fixed and growth mindsets, and linking these beliefs to motivation, learning behaviors, academic outcomes, and social identity factors such as gender stereotypes."
+  },
+  {
+    "title": "Critical Whiteness Studies (CWS)",
+    "description": "A theoretical framework that examines whiteness as a socially constructed, often invisible, system of dominance and privilege that organizes social life around a center and margins. It focuses on making whiteness visible to disrupt white supremacy, analyzing whiteness as a racial frame, ideology, social organization, and identity, and critiques the normative and structural mechanisms that maintain white dominance."
+  },
+  {
+    "title": "Interdisciplinary Learning Framework",
+    "description": "A framework addressing the challenges and processes involved in learning across disciplinary boundaries, including epistemological expectations, identity, and transfer between disciplines."
+  },
+  {
+    "title": "Theory of Registers of Semiotic Representations (TRSR)",
+    "description": "A theoretical framework focused on cognitive activity in mathematics, emphasizing access to mathematical objects through transformations and conversions among semiotic representation registers, linking representational use with conceptual understanding."
+  },
+  {
+    "title": "Cognitive Load Theory (CLT)",
+    "description": "A well-established learning theory focusing on the limitations of working memory during learning, distinguishing intrinsic, extraneous, and germane cognitive load, and emphasizing instructional design to optimize learning."
+  },
+  {
+    "title": "Dynamic Systems Model of Role Identity (DSMRI)",
+    "description": "A theoretical framework characterizing identity as an emergent property of a complex system involving context-specific self-perceptions, values, goals, emotions, and beliefs."
+  },
+  {
+    "title": "Transformative Learning Theory",
+    "description": "A learning theory focusing on how learners change their frames of reference through critical reflection, leading to shifts in assumptions, beliefs, and perspectives."
+  },
+  {
+    "title": "Participatory Design Framework",
+    "description": "A design approach emphasizing the active involvement of stakeholders (e.g., expert modelers, teachers) in the iterative development of educational materials and interventions to ensure relevance, usability, and effectiveness."
+  },
+  {
+    "title": "Culturally Relevant Pedagogy",
+    "description": "An instructional approach developed by Ladson-Billings emphasizing academic excellence, cultural competence, and sociopolitical consciousness to improve educational experiences for marginalized students by integrating their cultural identities and addressing sociopolitical issues in learning."
+  },
+  {
+    "title": "Practice-Based Teacher Education",
+    "description": "A teacher preparation model emphasizing teaching practice as the core of preparation, involving cycles of identification, modeling, implementation, and reflection of core teaching practices rather than focusing primarily on theoretical instruction."
+  },
+  {
+    "title": "Pedagogical Content Knowledge (PCK)",
+    "description": "A framework describing teachers' specialized knowledge that blends content and pedagogy, including knowledge of curriculum, students, instructional strategies, and assessment, applied here specifically to questioning (PCK-Q) in inquiry teaching."
+  },
+  {
+    "title": "Inquiry Teaching and Questioning Framework",
+    "description": "A framework characterizing questioning in inquiry-based teaching as chains of probing and guiding questions that scaffold student learning by eliciting student ideas and directing them toward learning objectives."
+  },
+  {
+    "title": "Multimedia Learning Theory",
+    "description": "A theoretical framework based on research in multimedia learning that emphasizes the use of multiple sensory channels (e.g., auditory and visual) to enhance cognitive processing and learning outcomes. It includes principles such as dual-channel processing, coherence, signaling, and learner control, and is applied to design educational materials that integrate animations, narrations, and interactive elements to improve understanding and retention."
+  },
+  {
+    "title": "Cultural-Historical Activity Theory (CHAT)",
+    "description": "A sociocultural framework focusing on human practices as developmental, goal-oriented activities mediated by tools, community, norms, division of labor, and outcomes, emphasizing systemic contradictions and tensions within activity systems."
+  },
+  {
+    "title": "Bakhtinian Discourse Analysis Framework",
+    "description": "A sociolinguistic and sociocultural theoretical framework based on the work of Mikhail Bakhtin and the Bakhtin Circle, emphasizing dialogism, the socioideological nature of language and signs, the concept of the dialogical subject, speech genres, and the inseparability of subjectivity and social context in discourse production and analysis."
+  },
+  {
+    "title": "Social model of disability",
+    "description": "A framework that situates disability as arising from the interaction between individuals with impairments and societal/environmental barriers, emphasizing societal responsibility to remove disabling barriers rather than focusing on individual deficits."
+  },
+  {
+    "title": "Universal Design for Learning (UDL)",
+    "description": "A framework extending Universal Design principles to education, focusing on proactively designing curricula and learning environments to be accessible and supportive of the broadest range of learners by providing multiple means of representation, action and expression, and engagement."
+  },
+  {
+    "title": "Interconnected Model of Professional Growth",
+    "description": "A model proposed by Clarke and Hollingsworth describing teacher professional growth as a dynamic interplay among four domains: external domain (sources of information and support), personal domain (knowledge, beliefs, attitudes), domain of practice (classroom actions), and domain of consequence (outcomes such as student learning), connected through enactment and reflection processes, emphasizing multiple entry points and developmental pathways."
+  },
+  {
+    "title": "PACKS Model (Procedural and Conceptual Knowledge in Science)",
+    "description": "A model linking different types of knowledge (scientific purpose, content, manipulative skills, and quality of evidence) to phases of scientific inquiry, highlighting how these knowledge types influence decision-making and argumentation in science learning."
+  },
+  {
+    "title": "Toulmin's Argumentation Model Adapted for Science Inquiry",
+    "description": "An adaptation of Toulmin's argumentation structure to scientific inquiry contexts, distinguishing field-invariant and field-dependent elements of arguments, including claims, data, warrants, backings, qualifiers, and rebuttals, to analyze and scaffold scientific reasoning and argument construction."
+  },
+  {
+    "title": "Relevance Structure (Phenomenographic Learning Theory)",
+    "description": "A construct from phenomenography describing how learners perceive and respond to aspects of a learning situation based on what they find relevant, emphasizing the development of ways of seeing or experiencing phenomena to enable intended learning."
+  },
+  {
+    "title": "Person-Environment Fit Theory",
+    "description": "A theoretical framework originating from vocational psychology focusing on the compatibility between individuals and their work environments across multiple dimensions (person-vocation, person-job, person-organization, person-group, person-person), emphasizing reciprocal interactions and perceived fit as predictors of outcomes such as satisfaction and performance."
+  },
+  {
+    "title": "Socialization Theory",
+    "description": "A framework describing the process through which individuals internalize the values, norms, expectations, and knowledge of a professional or disciplinary community via formal and informal interactions, often conceptualized in stages, and emphasizing the development of professional identity and integration into the community."
+  },
+  {
+    "title": "Social Support Framework",
+    "description": "A framework focusing on how network ties connect people to resources that sustain them in times of difficulty, including instrumental, emotional, appraisal, or monitoring support."
+  },
+  {
+    "title": "Social Capital Theory",
+    "description": "A framework analyzing access to resources embedded in social structures, emphasizing power, brokerage, and the role of structural holes in networks."
+  },
+  {
+    "title": "Social Influence Framework",
+    "description": "A framework linking network structure with actor attributes through processes such as peer pressure, persuasion, competition, and diffusion of information and attitudes."
+  },
+  {
+    "title": "Domains of Power Framework",
+    "description": "A framework used as a tool for synthesis and analysis focusing on different domains or structures of power that influence experiences and systemic inequities, particularly in marginalized groups."
+  },
+  {
+    "title": "Standpoint Theory",
+    "description": "A critical theoretical framework focusing on the relationship between knowledge production and power, centering the perspectives and experiences of marginalized or underrepresented groups to reveal systemic inequities and inform social change."
+  },
+  {
+    "title": "Commognitive Theory",
+    "description": "A sociocultural and discourse-based theoretical framework viewing learning as becoming a participant in a professional community through adopting its specific discourse, including keywords, visual mediators, endorsable narratives, routines, and governed by metarules. It emphasizes learning as changes in discourse and resolving conflicts arising from differing metarules between discourses."
+  },
+  {
+    "title": "Student-Centered Learning Framework",
+    "description": "A theoretical perspective emphasizing learning environments that prioritize student autonomy, active engagement, and participation, often contrasted with teacher-centered approaches. It includes constructs such as student initiation, interaction, and ownership of learning."
+  },
+  {
+    "title": "Ontological Metaphor Framework",
+    "description": "A theoretical perspective that integrates cognitive linguistics and physics education research, focusing on how physicists use ontological metaphors—mapping abstract physics concepts onto concrete ontological categories such as matter, processes, and states—encoded in language and grammar, to reason about and communicate physical phenomena. This framework analyzes how grammatical structures reflect and constrain the ontological categories assigned to physics concepts and how mismatches lead to metaphorical language use."
+  },
+  {
+    "title": "Argumentation Theory",
+    "description": "A framework analyzing the structure and nature of arguments, including components such as claims, data, and warrants, used here to interpret students’ epistemological framing through their mathematical justifications and reasoning."
+  },
+  {
+    "title": "Postpositivism",
+    "description": "A philosophical framework recognizing that knowledge is conjectural and probabilistic, emphasizing the use of empirical methods to gain insights into phenomena while acknowledging that observations are theory-laden and that absolute certainty is unattainable. It often involves both quantitative and qualitative data and views research as a process of constructing meaning through interaction with contexts."
+  },
+  {
+    "title": "Piagetian Theory of Cognitive Development",
+    "description": "A developmental theory classifying cognitive abilities into stages such as concrete operational and formal operational reasoning, emphasizing the progression of abstract and hypothetical thinking capabilities."
+  },
+  {
+    "title": "Scientific Reasoning Framework",
+    "description": "A framework describing scientific reasoning as involving hypothetico-deductive reasoning, proportional reasoning, control of variables, probability reasoning, and coordination of theory and evidence as a social truth-seeking process."
+  },
+  {
+    "title": "Dynamic Transfer Framework",
+    "description": "A theoretical framework describing learning as the application of component competencies within an environment that supports distributed memory, alternative interpretations and feedback, scaffolding through constraining actions, and coordination of knowledge, facilitating the development of new concepts through dynamic transfer."
+  },
+  {
+    "title": "Epistemic Network Analysis Framework",
+    "description": "A framework that uses network modeling techniques to represent and analyze the organization and dynamics of epistemic frames—networks of knowledge, skills, beliefs, and practices—within learning contexts, enabling visualization and quantitative assessment of how learners' epistemic elements interact and evolve during problem solving."
+  },
+  {
+    "title": "Innovation-decision Process Framework",
+    "description": "A theoretical framework derived from Everett Rogers' Diffusion of Innovations theory, describing the stages individuals go through when deciding to adopt an innovation: knowledge, persuasion, decision, implementation, and confirmation. It emphasizes how different types of information and support are needed at each stage and how individual and contextual factors influence adoption."
+  },
+  {
+    "title": "Student Persistence Research Framework",
+    "description": "A framework based on the foundational work of Spady and Tinto emphasizing the role of social and academic integration within university communities as critical to student persistence, focusing on students' adaptation to social and academic norms, values, and expectations."
+  },
+  {
+    "title": "Complexity Science Framework",
+    "description": "A theoretical perspective that interprets systems as complex, adaptive, and self-organizing, characterized by emergent order and patterns from local interactions, often analyzed through network structures exhibiting properties such as power-law distributions and preferential attachment."
+  },
+  {
+    "title": "Paradigm Shift and Conceptual Change Theory",
+    "description": "A theoretical perspective drawing on Kuhn's notion of paradigm shifts and the science education theory of conceptual change, emphasizing how learners must restructure or replace prior knowledge frameworks when encountering fundamentally different scientific paradigms, leading to learning difficulties and resistance."
+  },
+  {
+    "title": "Coordination Class Theory",
+    "description": "A theoretical framework developed by diSessa that conceptualizes knowledge as composed of fine-grained elements called 'resources' that are coordinated into classes to make sense of phenomena. It emphasizes how learners dynamically coordinate these resources during conceptual change and problem solving."
+  },
+  {
+    "title": "Pedagogical Sensemaking Framework",
+    "description": "A conceptual framework developed here by analogy to science sensemaking, defining pedagogical sensemaking as instructors' pursuit of robust pedagogical logic based on observations and interpretations of classroom events, reasoning about how instructional moves influence student engagement and learning, and iteratively refining instructional plans to suit local contexts."
+  },
+  {
+    "title": "Capability Approach",
+    "description": "A theoretical framework conceptualized by Amartya Sen that values human practices expanding an individual's ability to achieve excellence and function beyond economic productivity, emphasizing development of capabilities rather than mere economic capital."
+  },
+  {
+    "title": "Human Capital Theory",
+    "description": "A theoretical framework that values practices enhancing an individual's ability to perform labor and produce economic capital, viewing education primarily as a means to increase productivity and economic output."
+  },
+  {
+    "title": "Three-Dimensional Learning Framework (3DL)",
+    "description": "A framework from the National Research Council's Framework for K-12 Science Education that integrates three dimensions of learning: Scientific Practices, Crosscutting Concepts, and Disciplinary Core Ideas, emphasizing blended instruction and assessment to reflect authentic science learning."
+  },
+  {
+    "title": "Metacognitive Critical Affective (MCA) Framework",
+    "description": "A synthesized framework developed in this research that integrates metacognitive, affective, and critical thinking components to characterize students' critical attitude as an observable, context-dependent activity involving intellectual satisfaction, self-regulation, and affective factors such as self-esteem and self-efficacy during conceptual comprehension and critique."
+  },
+  {
+    "title": "Figured Worlds Framework",
+    "description": "A sociocultural theoretical framework that conceptualizes social and cultural contexts as 'figured worlds'—shared realms of interpretation where identities, roles, and meanings are constructed and negotiated through prevailing storylines and cultural models. It emphasizes how individuals author their identities in relation to these culturally constructed narratives and resources."
+  },
+  {
+    "title": "Video Game Features Learning Framework",
+    "description": "A framework synthesizing key video game features such as interactivity, simulation, feedback, and narrative as mechanisms that support learning through engagement, formative assessment, motivation, and situated participation."
+  },
+  {
+    "title": "Concept Image Framework",
+    "description": "A cognitive framework describing a student's mental representation of a concept as a multifaceted cognitive structure including all associated properties, processes, mental pictures, and ideas. It distinguishes between the full concept image and the evoked concept image in a particular context, and explains learning difficulties such as restricted concept images where understanding is limited to specific contexts or algorithmic procedures without deeper conceptual meaning."
+  },
+  {
+    "title": "Measurement Theory Framework",
+    "description": "A theoretical framework focusing on the principles and philosophy of measurement in science, emphasizing objectivity, unidimensionality, scale construction, and the transformation of observations into quantitative measures."
+  },
+  {
+    "title": "Knowledge Integration Framework",
+    "description": "A theoretical framework emphasizing the restructuring and integration of cognitive concept networks in learners, focusing on coherence and connectedness of ideas around central scientific concepts to promote deep understanding."
+  },
+  {
+    "title": "How Learning Works (HLW) Principles Framework",
+    "description": "A framework of broad, research-based principles of teaching and learning applicable across disciplines and contexts, emphasizing prior knowledge, knowledge organization, motivation, mastery, practice and feedback, classroom climate, self-directed learning, and social learning, drawn from cognitive, developmental, and social psychology and education research."
+  },
+  {
+    "title": "Metarepresentational Competence (MRC) Framework",
+    "description": "A framework defining the ability to generate, critique, and refine representational forms, emphasizing flexible and fluid skills that transcend mere production and use of representations. It includes inventing new representations, judging their quality, understanding their functions, and learning to use new representations effectively, particularly as sense-making tools in problem solving."
+  },
+  {
+    "title": "Interactional Sociolinguistics Framework",
+    "description": "A branch of discourse analysis focusing on how meaning is generated through interactions and the contexts in which they occur, especially analyzing speech and conversational roles, including framing and participant roles in social interactions."
+  },
+  {
+    "title": "Personal Relevance Framework",
+    "description": "A framework emphasizing the intrinsic relevance of science education to students' lives, including dimensions such as intellectual skill development, societal participation, and vocational orientation, recognizing students as agents who determine what is relevant based on their values, culture, and experiences."
+  },
+  {
+    "title": "Translated Scientific Explanations (TSE) Framework",
+    "description": "A framework for translating complex scientific and engineering knowledge into accessible lay language without corrupting meaning, using clusters of explanatory elements such as analogies, narratives, knowledge organization, and content selection to facilitate understanding."
+  },
+  {
+    "title": "Disciplinary Authenticity Framework",
+    "description": "A framework focused on engaging students in authentic disciplinary practices that reflect the epistemic goals and social dialectical practices of the scientific community, fostering genuine scientific inquiry and reasoning."
+  },
+  {
+    "title": "Teaching-Learning Sequences (TLS) Framework",
+    "description": "A framework describing structured, research-informed sequences of teaching activities designed to promote coherent conceptual understanding through iterative design, implementation, and refinement cycles, emphasizing coherence beyond isolated lessons but below national curriculum level."
+  },
+  {
+    "title": "Adaptation and Reinvention (ARI) Model",
+    "description": "A communication-based knowledge transfer model that conceptualizes transfer as a bidirectional, interactive process involving decontextualization, adaptation of core elements, and recontextualization, emphasizing negotiation and mutual adaptation between original and host contexts."
+  },
+  {
+    "title": "Computational Modeling in Science Education",
+    "description": "A framework emphasizing the use of computational modeling as a vehicle to integrate interdisciplinary scientific practices, promote new discovery methods, and support modeling-based reasoning in science education, particularly bridging classical mathematical modeling with computational approaches."
+  },
+  {
+    "title": "Practice-Linked Identity Framework (Nasir and Hand)",
+    "description": "A framework that conceptualizes identity development as linked to participation in specific social and cultural practices, emphasizing the negotiation between one's global sense of self and the identities available within a learning environment, with engagement opportunities shaping identity development and learning."
+  },
+  {
+    "title": "Large Language Models in Education Framework",
+    "description": "A framework describing the integration, capabilities, limitations, and educational implications of large language models (LLMs) such as GPT and their use in supporting teaching and learning processes, including task generation, personalization, and ethical considerations."
+  },
+  {
+    "title": "Problem Posing Framework",
+    "description": "A framework emphasizing the role of problem posing by teachers and students as a critical pedagogical skill that fosters creative thinking, conceptual understanding, and insight into student reasoning, involving both generation of new problems and reformulation of existing tasks."
+  },
+  {
+    "title": "Emergence Theory",
+    "description": "A theoretical perspective focusing on understanding scientific concepts as emergent phenomena arising from interactions of many components, emphasizing the challenges learners face when intuitive direct-causal reasoning conflicts with emergent explanations."
+  },
+  {
+    "title": "Students’ Conceptions Framework",
+    "description": "A framework that documents and analyzes students’ intuitive and hybrid conceptions about scientific phenomena, emphasizing how these conceptions influence learning and the need to address them in science education."
+  },
+  {
+    "title": "Constructivism Framework",
+    "description": "A learning theory positing that learners actively construct knowledge by linking new information to prior ideas, contrasting with instructivist or behaviorist views."
+  },
+  {
+    "title": "Social Constructivism Framework",
+    "description": "A branch of constructivism emphasizing that knowledge construction occurs through social interaction and collaboration among learners."
+  },
+  {
+    "title": "Equity Framework in Education",
+    "description": "A framework focusing on structuring educational policies and practices to address systemic injustices and support learning for students from diverse identities and backgrounds."
+  },
+  {
+    "title": "Stereotype Threat Framework",
+    "description": "A psychological framework describing how awareness of negative stereotypes about one's group can impair performance and confidence in evaluative situations."
+  },
+  {
+    "title": "Self-Efficacy Framework",
+    "description": "A framework addressing individuals' beliefs about their capabilities to perform tasks, influencing motivation, participation, and learning outcomes."
+  },
+  {
+    "title": "Group Work Practices Framework",
+    "description": "A framework categorizing types of group learning practices—such as instructivist, collaborative, and cooperative learning—based on structure, social interaction, and pedagogical goals."
+  },
+  {
+    "title": "Instructivist, Collaborative, and Cooperative Learning Frameworks",
+    "description": "Frameworks describing distinct pedagogical approaches to group work: instructivist (highly structured, teacher-directed), collaborative (student-directed, less structured), and cooperative (structured with scaffolding and interdependence)."
+  },
+  {
+    "title": "Cultural Dynamics Theory",
+    "description": "A theoretical framework grounded in Schein’s model of organizational culture, emphasizing three levels of culture (artifacts, espoused values, basic assumptions) and extended by symbolic-interpretive perspectives to include symbols and dynamic cultural processes within organizations, applied here to understand departmental culture and cultural shifts in higher education contexts."
+  },
+  {
+    "title": "Self-Regulated Learning Frameworks",
+    "description": "A combined framework that encompasses theories of self-regulated learning including cyclic processes of forethought, performance, and self-reflection. This merge includes both Zimmerman’s Theory of Self-Regulation and Pintrich’s Model of Self-Regulated Learning."
+  },
+  {
+    "title": "Philosophy & History of Science Framework",
+    "description": "A framework combining perspectives on the nature, structure, and evolution of scientific knowledge, incorporating both philosophical and historical dimensions."
+  },
+  {
+    "title": "Modeling, Structure Mapping, and Conceptual Blending Framework",
+    "description": "A cognitive framework encompassing the construction, use, and refinement of models through analogy, structure mapping, and blending of concepts."
+  },
+  {
+    "title": "Social Cognitive Theory (SCT) for Learning and Motivation",
+    "description": "A combined framework emphasizing observational learning, self-efficacy, motivation, and reciprocal determinism in human behavior, integrating traditional SCT and its extension focused on motivation."
+  },
+  {
+    "title": "Resource Framing",
+    "description": "An approach conceptualizing learning as the activation of context-dependent cognitive resources. Duplicate entries are merged under a single, clear category."
+  },
+  {
+    "title": "Typology of Learning Impediments",
+    "description": "A framework categorizing learning difficulties based on integration of new knowledge with prior knowledge, linguistic, and epistemological factors."
+  },
+  {
+    "title": "Organizational Theory in Educational Contexts",
+    "description": "A framework analyzing structures, processes, resources, and dynamics of organizations, particularly as applied to educational programs and informal physics education settings."
+  },
+  {
+    "title": "Symbolic Forms Framework",
+    "description": "A framework characterizing how students link symbolic equation structures with conceptual schema, based on a knowledge-in-pieces perspective."
+  },
+  {
+    "title": "Intellectual Humility Framework",
+    "description": "A framework conceptualizing accurate self-awareness of intellectual limitations and its influence on learning, motivation, and collaboration."
+  },
+  {
+    "title": "Epistemological Reflection Model",
+    "description": "A developmental model describing how students' beliefs about knowledge, authority, and learning evolve, influenced by multiple contextual domains."
+  },
+  {
+    "title": "Course-Based Undergraduate Research Experiences (CURE) Framework",
+    "description": "A framework defining authentic research engagement within course settings that emphasizes scientific practices, discovery, collaboration, and iteration."
+  },
+  {
+    "title": "Adaptive Expertise Framework",
+    "description": "A framework describing expertise as the capacity for routine efficiency combined with innovation, flexibility, and adaptive application of knowledge."
+  },
+  {
+    "title": "Intersectionality Theory",
+    "description": "A framework analyzing how multiple systems of oppression intersect to shape social identities and experiences."
+  },
+  {
+    "title": "Understandings of Evidence (UoE) Framework",
+    "description": "A framework describing the interdependent concepts that underpin scientific evidence, emphasizing coherence in scientific argument construction."
+  },
+  {
+    "title": "Cognitive Linguistics Framework (Analogical and Metaphorical Reasoning)",
+    "description": "A framework that examines how analogies, metaphors, and linguistic structures shape conceptual reasoning in science, integrating aspects of conceptual metaphor theory."
+  },
+  {
+    "title": "Critical Disability Physics Identity (CDPI) Framework",
+    "description": "A framework integrating physics identity constructs with disability-specific political identity to understand the experiences of disabled physicists."
+  }
+]

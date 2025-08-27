@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Introduction / Motivation",
+    "description": "Sets the context for the research.",
+    "true_label_equivalent": "introduction"
+  },
+  {
+    
+  "title": "Theoretical Framework",
+  "description": "Outlines conceptual models, key theories, or philosophical assumptions that form the basis of the study. Focuses on explaining the lens or framework used for analysis, not summarizing past studies.",
+  "true_label_equivalent": "theory"
+  },
+  {
+    
+  "title": "Literature Review/Reanalysis",
+  "description": "Synthesizes previous empirical or theoretical studies, evaluating their findings, gaps, and contributions. May include reanalysis of existing datasets or replication of prior results.",
+  "true_label_equivalent": "previous work"
+  },
+  {
+    "title": "Methods",
+    "description": "Details study procedures: participants, instruments, data collection and analysis techniques. May include ethical considerations. Also describes specific materials, tools or activities used in the study (e.g., instructional sequences, software, protocols).",
+    "true_label_equivalent": "methods"
+  },
+  {
+    "title": "Results",
+    "description": "Objective findings (tables, figures, statistics) without further interpretation.",
+    "true_label_equivalent": "results"
+  },
+  {
+    "title": "Discussion",
+    "description": "Interprets results, compares to prior work, and discusses limitations. May be combined with Results in some papers.",
+    "true_label_equivalent": "discussion"
+  },
+  {
+    "title": "Implications",
+    "description": "Practical or theoretical consequences for stakeholders (policymakers, educators, etc.), including future development directions.",
+    "true_label_equivalent": "future work"
+  },
+  {
+    "title": "Conclusion / Summary",
+    "description": "Concise summary of findings and key takeaways, often with future research directions.",
+    "true_label_equivalent": "conclusion"
+  },
+  {
+    "title": "Limitations",
+    "description": "Acknowledgment of study limitations, such as sample size, methodology, or generalizability.",
+    "true_label_equivalent": "limitations"
+  },
+  {
+    "title": "Ethical Considerations",
+    "description": "Discussion of ethical issues related to the research, such as consent, confidentiality, and potential biases.",
+    "true_label_equivalent": "ethical considerations"
+  },
+  {
+    "title": "Appendix / Supplementary Material",
+    "description": "Additional information that supports the main text, such as detailed data, extended methods, or supplementary analyses.",
+    "true_label_equivalent": "appendix"
+  },
+  {
+    "title": "Acknowledgments",
+    "description": "Recognition of contributions from individuals or organizations not listed as authors.",
+    "true_label_equivalent": "acknowledgments"
+  },
+  {
+    "title": "References",
+    "description": "List of works cited in the paper.",
+    "true_label_equivalent": "references"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Instructional Design and Implementation Methods",
+    "description": "Methods focused on the planning, structuring, and execution of instructional activities, including curriculum development, classroom interventions, and use of specific pedagogical tools."
+  },
+  {
+    "title": "Assessment and Evaluation Methods",
+    "description": "Methods related to the creation, validation, statistical evaluation, and analysis of assessment instruments such as tests, surveys, and quizzes to measure student learning and conceptual understanding."
+  },
+  {
+    "title": "Qualitative Research Methods",
+    "description": "Approaches involving the collection and analysis of qualitative data, such as interviews, thematic analysis, content analysis, and ethnographic observation, to explore perspectives, reasoning, and experiences."
+  },
+  {
+    "title": "Quantitative and Statistical Methods",
+    "description": "Methods utilizing quantitative data collection and statistical analysis, including experimental design, cluster analysis, social network analysis, and use of statistical tests to analyze research data."
+  },
+  {
+    "title": "Mixed-Methods Research",
+    "description": "Research methodologies that combine qualitative and quantitative approaches, such as mixed-methods studies involving simulations, coding, and statistical analysis."
+  },
+  {
+    "title": "Longitudinal and Case Study Methods",
+    "description": "Research designs that involve tracking participants or cohorts over extended periods to study development, change, and identity formation, including longitudinal case studies and cross-sequential designs."
+  },
+  {
+    "title": "Technology and Tool Evaluation Methods",
+    "description": "Approaches to studying the design, implementation, and impact of educational technologies, simulations, and instructional materials on student learning."
+  },
+  {
+    "title": "Secondary Data Analysis Methods",
+    "description": "Methods involving the reanalysis of existing datasets. (Note: The component related to 'Theoretical Framework Application' has been removed because applying theoretical frameworks constitutes an interpretive lens rather than an empirical research method.)"
+  }
+]

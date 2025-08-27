@@ -1,0 +1,539 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{CoenennpUnderstanding}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9f7352d7cfc4135364cd535b821a3041}{%
+           family={Coenen},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e101a49a3ed6b3c9eb7eb635518158a0}{%
+           family={Pearce},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {People + AI Research (PAIR)}%
+      }
+      \strng{namehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{fullhash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{fullhashraw}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{bibnamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorbibnamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authornamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorfullhash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorfullhashraw}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-09}
+      \field{title}{{Understanding UMAP}}
+      \verb{urlraw}
+      \verb https://pair-code.github.io/understanding-umap/
+      \endverb
+      \verb{url}
+      \verb https://pair-code.github.io/understanding-umap/
+      \endverb
+    \endentry
+    \entry{IBMndPrincipal}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-09}
+      \field{title}{{Principal component analysis}}
+      \verb{urlraw}
+      \verb https://www.ibm.com/think/topics/principal-component-analysis
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/think/topics/principal-component-analysis
+      \endverb
+    \endentry
+    \entry{Mazraeh2025Comprehensive}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85f880bf319b5ddd9cc9c5add773ba2d}{%
+           family={Mazraeh},
+           familyi={M\bibinitperiod},
+           given={Adnan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{fullhash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{fullhashraw}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{bibnamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorbibnamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authornamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorfullhash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorfullhashraw}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{A comprehensive guide to dimensionality reduction: From basic to super-advanced techniques 1}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://medium.com/@adnan.mazraeh1993/a-comprehensive-guide-to-dimensionality-reduction-from-basic-to-super-advanced-techniques-1-d17ce8e734d8
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@adnan.mazraeh1993/a-comprehensive-guide-to-dimensionality-reduction-from-basic-to-super-advanced-techniques-1-d17ce8e734d8
+      \endverb
+    \endentry
+    \entry{Odden2024Using}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=74b456c748a6abc284eded77be9693d3}{%
+           family={Odden},
+           familyi={O\bibinitperiod},
+           given={T.\bibnamedelimi O.\bibnamedelimi B.},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85e180ff2ba418deec6d3f68a0cb538a}{%
+           family={Tyseng},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba8275044c3288b5dbad263767a03c44}{%
+           family={Mjaaland},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bfbc00f2394ca1999f87ebc9ffa6318}{%
+           family={Kreutzer},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48aea3fe4b28e0f31e5fbdb17b35674}{%
+           family={Malthe-Sørenssen},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d94aa83e56c427502aa3961fd95f914a}
+      \strng{fullhash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{fullhashraw}{d2cad7b353eab9415898bd193c979f61}
+      \strng{bibnamehash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authorbibnamehash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authornamehash}{d94aa83e56c427502aa3961fd95f914a}
+      \strng{authorfullhash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authorfullhashraw}{d2cad7b353eab9415898bd193c979f61}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Physics Education Research}
+      \field{number}{2}
+      \field{title}{{Using text embeddings for deductive qualitative research at scale in physics education}}
+      \field{volume}{20}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1103/PhysRevPhysEducRes.20.020151
+      \endverb
+    \endentry
+    \entry{Radev2004Centroid}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e2d94baed59df88a632a94fcb060cf0d}{%
+           family={Radev},
+           familyi={R\bibinitperiod},
+           given={Dragomir\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7181b02a1d4ab42e332709cecd1f7d1b}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Hongyan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a9c395484b31e7e05289bc1c8dba8c1}{%
+           family={Sty},
+           familyi={S\bibinitperiod},
+           given={Malgorzata},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9074c6509579a68564206d0e79aa7d6c}{%
+           family={Tam},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{428a13f49013c69c7e5ed9cce0d68889}
+      \strng{fullhash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{fullhashraw}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{bibnamehash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authorbibnamehash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authornamehash}{428a13f49013c69c7e5ed9cce0d68889}
+      \strng{authorfullhash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authorfullhashraw}{2edbe25926cfb2f62a7657736a31595e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing \& Management}
+      \field{number}{6}
+      \field{title}{{Centroid-based summarization of multiple documents}}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{919\bibrangedash 938}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.ipm.2003.10.006
+      \endverb
+    \endentry
+    \entry{Stewart2022Implementation}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e6046e34b38b5e0385299ff9619df36b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f274a23b2bacee7d45012bf91181689e}{%
+           family={Al-Khassaweneh},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{fullhash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{fullhashraw}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{bibnamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorbibnamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authornamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorfullhash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorfullhashraw}{435eb6a83f51fa9038f8825703c45c68}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{5}
+      \field{title}{{An implementation of the HDBSCAN* clustering algorithm}}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/app12052405
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{CoenennpUnderstanding}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9f7352d7cfc4135364cd535b821a3041}{%
+           family={Coenen},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e101a49a3ed6b3c9eb7eb635518158a0}{%
+           family={Pearce},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {People + AI Research (PAIR)}%
+      }
+      \strng{namehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{fullhash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{fullhashraw}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{bibnamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorbibnamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authornamehash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorfullhash}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \strng{authorfullhashraw}{e8fc11809344fe45f8d19bfcf3befdc7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-09}
+      \field{title}{{Understanding UMAP}}
+      \verb{urlraw}
+      \verb https://pair-code.github.io/understanding-umap/
+      \endverb
+      \verb{url}
+      \verb https://pair-code.github.io/understanding-umap/
+      \endverb
+    \endentry
+    \entry{IBMndPrincipal}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-09}
+      \field{title}{{Principal component analysis}}
+      \verb{urlraw}
+      \verb https://www.ibm.com/think/topics/principal-component-analysis
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/think/topics/principal-component-analysis
+      \endverb
+    \endentry
+    \entry{Mazraeh2025Comprehensive}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85f880bf319b5ddd9cc9c5add773ba2d}{%
+           family={Mazraeh},
+           familyi={M\bibinitperiod},
+           given={Adnan},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{fullhash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{fullhashraw}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{bibnamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorbibnamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authornamehash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorfullhash}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \strng{authorfullhashraw}{85f880bf319b5ddd9cc9c5add773ba2d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{A comprehensive guide to dimensionality reduction: From basic to super-advanced techniques 1}}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://medium.com/@adnan.mazraeh1993/a-comprehensive-guide-to-dimensionality-reduction-from-basic-to-super-advanced-techniques-1-d17ce8e734d8
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@adnan.mazraeh1993/a-comprehensive-guide-to-dimensionality-reduction-from-basic-to-super-advanced-techniques-1-d17ce8e734d8
+      \endverb
+    \endentry
+    \entry{Odden2024Using}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=74b456c748a6abc284eded77be9693d3}{%
+           family={Odden},
+           familyi={O\bibinitperiod},
+           given={T.\bibnamedelimi O.\bibnamedelimi B.},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85e180ff2ba418deec6d3f68a0cb538a}{%
+           family={Tyseng},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba8275044c3288b5dbad263767a03c44}{%
+           family={Mjaaland},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bfbc00f2394ca1999f87ebc9ffa6318}{%
+           family={Kreutzer},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d48aea3fe4b28e0f31e5fbdb17b35674}{%
+           family={Malthe-Sørenssen},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d94aa83e56c427502aa3961fd95f914a}
+      \strng{fullhash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{fullhashraw}{d2cad7b353eab9415898bd193c979f61}
+      \strng{bibnamehash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authorbibnamehash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authornamehash}{d94aa83e56c427502aa3961fd95f914a}
+      \strng{authorfullhash}{d2cad7b353eab9415898bd193c979f61}
+      \strng{authorfullhashraw}{d2cad7b353eab9415898bd193c979f61}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Physics Education Research}
+      \field{number}{2}
+      \field{title}{{Using text embeddings for deductive qualitative research at scale in physics education}}
+      \field{volume}{20}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1103/PhysRevPhysEducRes.20.020151
+      \endverb
+    \endentry
+    \entry{Radev2004Centroid}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e2d94baed59df88a632a94fcb060cf0d}{%
+           family={Radev},
+           familyi={R\bibinitperiod},
+           given={Dragomir\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7181b02a1d4ab42e332709cecd1f7d1b}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Hongyan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a9c395484b31e7e05289bc1c8dba8c1}{%
+           family={Sty},
+           familyi={S\bibinitperiod},
+           given={Malgorzata},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9074c6509579a68564206d0e79aa7d6c}{%
+           family={Tam},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{428a13f49013c69c7e5ed9cce0d68889}
+      \strng{fullhash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{fullhashraw}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{bibnamehash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authorbibnamehash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authornamehash}{428a13f49013c69c7e5ed9cce0d68889}
+      \strng{authorfullhash}{2edbe25926cfb2f62a7657736a31595e}
+      \strng{authorfullhashraw}{2edbe25926cfb2f62a7657736a31595e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Information Processing \& Management}
+      \field{number}{6}
+      \field{title}{{Centroid-based summarization of multiple documents}}
+      \field{volume}{40}
+      \field{year}{2004}
+      \field{pages}{919\bibrangedash 938}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/j.ipm.2003.10.006
+      \endverb
+    \endentry
+    \entry{Stewart2022Implementation}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e6046e34b38b5e0385299ff9619df36b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f274a23b2bacee7d45012bf91181689e}{%
+           family={Al-Khassaweneh},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{fullhash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{fullhashraw}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{bibnamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorbibnamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authornamehash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorfullhash}{435eb6a83f51fa9038f8825703c45c68}
+      \strng{authorfullhashraw}{435eb6a83f51fa9038f8825703c45c68}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{5}
+      \field{title}{{An implementation of the HDBSCAN* clustering algorithm}}
+      \field{volume}{12}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/app12052405
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
