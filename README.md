@@ -51,7 +51,7 @@ This notebook further augments the approach outlined above with Multi-Layer Perc
 
 ### Theory and method identification and classification
 
-#### [`2D_projection_space`](./2D_projection_space.ipynb)
+#### [`2D_projection_space.ipynb`](./2D_projection_space.ipynb)
 
 This notebook further explores the geometric properties of textual embeddings, analysing a variety of different properties in a variety of different ways.
 
