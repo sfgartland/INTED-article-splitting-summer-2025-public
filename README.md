@@ -1,3 +1,7 @@
+**Note:** All data files are included in this repository using LFS, with the expection of the dataset containing embeddings of the chuncked text content. It was excluded due to its size of >3GB. It is not employed in any of the computational essays, but if a need for it arises, contact <sfgartland@hotmail.com>
+
+
+
 # Computational Analysis of Physics Education Research Articles
 
 This project uses natural language processing (NLP) and machine learning techniques to analyse a corpus of physics education research articles. The main goal is to classify different sections of these articles (such as "Methods" and "Theoretical Framework") into granular categories and to analyse their content using text embeddings and dimensionality reduction.
